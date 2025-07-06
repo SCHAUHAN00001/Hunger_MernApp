@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Hunger_MernApp
+HungerMERN is a full-stack food ordering app built with the MERN stack. It includes user and admin roles, allowing users to browse items, add to cart, checkout, and place orders. Admins can manage food items and users through a secure dashboard. It features JWT auth and MongoDB integration.
+>>>>>>> 488040aaae901566b49cc29396887adaac19cbe8
